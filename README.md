@@ -21,17 +21,18 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" src="https://raw.githubusercontent.com/soumyajit4419/soumyajit4419/refs/heads/master/thoughtworks-gif_dribbble.gif" width="260"/>
+<img align="right" src="https://raw.githubusercontent.com/soumyajit4419/soumyajit4419/refs/heads/master/thoughtworks-gif_dribbble.gif" width="300"/>
+
 
 I'm a **MERN Stack Developer** focused on building modern, scalable, and user-friendly web applications.
 
--🔹 Creating responsive interfaces with **React, Next.js, Tailwind CSS & JavaScript**.  
--🔹 Developing secure RESTful APIs with **Node.js & Express**.  
--🔹 Designing scalable databases with **MongoDB**.  
--🔹 Implementing authentication with **JWT & Firebase**.  
--🔹 Writing clean, maintainable code in **JavaScript**.  
--🔹 Optimizing performance and following best practices.  
--🔹 Continuously learning and improving 🚀
+🔹 Creating responsive interfaces with **React, Next.js, Tailwind CSS & JavaScript**.  
+🔹 Developing secure RESTful APIs with **Node.js & Express**.  
+🔹 Designing scalable databases with **MongoDB**.  
+🔹 Implementing authentication with **JWT & Firebase**.  
+🔹 Writing clean, maintainable code in **JavaScript**.  
+🔹 Optimizing performance and following best practices.  
+🔹 Continuously learning and improving 🥰
 
 
 ---
