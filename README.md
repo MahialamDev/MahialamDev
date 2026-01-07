@@ -73,9 +73,14 @@ I love **transforming ideas into clean, maintainable code** and continuously exp
 
 ## 📈 GitHub Streak Stats
 
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=MahialamDev&theme=vision-friendly-dark" width="60%" />
-</div>
+<p align="center">
+  <img
+    src="https://nirzak-streak-stats.vercel.app/?user=MahialamDev&theme=vision-friendly-dark&hide_border=true"
+    alt="GitHub Streak Stats"
+    width="60%"
+  />
+</p>
+
 
 
 ---
