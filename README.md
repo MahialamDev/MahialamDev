@@ -82,6 +82,10 @@ I love **transforming ideas into clean, maintainable code** and continuously exp
 </p>
 
 
+## 🔥 GitHub Streak
+![Streak](https://nirzak-streak-stats.vercel.app/?user=MahialamDev)
+
+
 
 ---
 
