@@ -49,6 +49,13 @@ I'm a **full-stack developer** from Bangladesh who builds fast, accessible and s
 
 ---
 
+<div align="center">
+     <a href="https://github.com/MahialamDev">
+       <img src="https://streak-stats.demolab.com/?user=MahialamDev&theme=tokyonight&hide_border=true" alt="GitHub streak" width="60%" />
+     </a>
+</div>
+
+
 ## 🚀 Featured Projects
 
 <!-- Replace the repo names / links below with your real repositories -->
@@ -70,11 +77,11 @@ I'm a **full-stack developer** from Bangladesh who builds fast, accessible and s
 
 <br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=MahialamDev&theme=tokyonight&hide_border=true" alt="GitHub streak" width="80%" />
-
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MahialamDev&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="95%" />
+<img src="https://ghchart.rshah.org/6A00F4/MahialamDev" alt="Contribution graph" width="95%" />
+
+
 
 </div>
 
@@ -85,8 +92,9 @@ I'm a **full-stack developer** from Bangladesh who builds fast, accessible and s
 I'm always happy to talk about web development, collaborate on interesting projects or discuss new opportunities.
 
 📫 **Email:** [mahialam407@gmail.com](mailto:mahialam407@gmail.com)  
+📞 **Phone:** [+880 1979-922268](tel:+8801979922268)  
+💬 **WhatsApp:** [Chat on WhatsApp](https://wa.me/8801979922268)  
 💼 **LinkedIn:** [linkedin.com/in/mahialam-rahat](https://www.linkedin.com/in/mahialam-rahat/)
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00F4,100:0F172A&height=100&section=footer" alt="" />
