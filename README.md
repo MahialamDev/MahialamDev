@@ -62,9 +62,9 @@ I'm a **full-stack developer** from Bangladesh who builds fast, accessible and s
 
 | Project | Description | Stack |
 |:--|:--|:--|
-| 🩸 **[Blood Management System](https://github.com/MahialamDev/REPO-NAME)** | Backend platform for managing blood donors, requests and inventory, with caching and a type-safe data layer. | `Express` `TypeScript` `Prisma` `PostgreSQL` `Redis` |
-| 🛒 **[Project Name](https://github.com/MahialamDev/REPO-NAME)** | One-line description of what it does and the problem it solves. | `React` `Node.js` `MongoDB` |
-| 🌐 **[Project Name](https://github.com/MahialamDev/REPO-NAME)** | One-line description of what it does and the problem it solves. | `Next.js` `TypeScript` `Tailwind` |
+| 🩸 **[Blood Management](https://github.com/MahialamDev/blood-management-server)** | Backend platform for managing blood donors, requests and inventory, with caching and a type-safe data layer. | `Express` `TypeScript` `Prisma` `PostgreSQL` `Redis` |
+| 🛒 **[Nexus School](https://github.com/MahialamDev/nexus-school-server)** | One-line description of what it does and the problem it solves. | `React` `Node.js` `MongoDB` |
+| 🌐 **[Style Decor](https://github.com/MahialamDev/StyleDecor-client)** | One-line description of what it does and the problem it solves. | `Next.js` `TypeScript` `Tailwind` |
 
 ---
 
